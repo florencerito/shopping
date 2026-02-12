@@ -1,0 +1,32 @@
+button{
+    background-color: rgb(11, 12, 12);
+
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+ button  :hover{
+  background-color: rgb(244, 245, 245);
+  color:black;
+  font-weight: 700;
+}
+
+
+
+
+body.ELECBOUT{
+    background-color: white;
+    margin: 0;
+}
+
+.COFFEE{
+     background-color: rgb(235, 198, 198);
+}
+
+.ANTIQUE{
+      background-color: #fffaf0;
+}
